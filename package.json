@@ -1,0 +1,30 @@
+{
+  "name": "create-bridge-kit",
+  "version": "1.0.3",
+  "description": "Scaffold a working USDC bridge modal from Sepolia to Arc Testnet using Circle Bridge Kit",
+  "bin": {
+    "create-bridge-kit": "./bin/create-bridge-kit.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bridge-kit",
+    "circle",
+    "usdc",
+    "sepolia",
+    "arc-testnet",
+    "react",
+    "wagmi",
+    "viem"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "bin",
+    "templates"
+  ]
+}
